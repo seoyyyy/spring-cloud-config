@@ -1,6 +1,6 @@
 token:
-    expiration_time: 864
-    secret: value_1
+    expiration_time: 864000000
+    secret: my_token
 
 gateway:
     ip: 10.10.33.112
